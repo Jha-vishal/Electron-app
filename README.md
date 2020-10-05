@@ -1,5 +1,6 @@
-# python-app-with-electron-gui
-A better way to make GUIs for your Python apps
+# Python-app-with-Electron-GUI
+A better way to make GUIs for your Python apps interface interactive
+--------------------------------------------------------------------
 
 Use HTML, JavaScript and CSS to make highly customized, cross platfrom desktop apps which use native Python backends.
 
@@ -8,9 +9,10 @@ Use HTML, JavaScript and CSS to make highly customized, cross platfrom desktop a
 
 
 
-
-Note: This is for educational purposes only, this may not be efficient or bug-free. Also, this is just a demo on how
-JS and Python can be used to interact together. This demo is *NOT* meant to show face detection or object detection.
+ --------------------------------------------------------------------------------------------------------------------------
+|  #Note: This is for educational purposes only, this may not be efficient or bug-free. Also, this is just a demo on how  |
+|  JS and Python can be used to interact together. This demo is *NOT* meant to show face detection or object detection.   |
+--------------------------------------------------------------------------------------------------------------------------
 
 ## General Dependenices
   * Python
