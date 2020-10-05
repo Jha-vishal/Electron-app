@@ -8,10 +8,9 @@ Use HTML, JavaScript and CSS to make highly customized, cross platfrom desktop a
 <img src="/samples/3.png" width="50%" />
 
 
-
- --------------------------------------------------------------------------------------------------------------------------
-|  Note: This is for educational purposes only, this may not be efficient or bug-free. Also, this is just a demo on how   |
-|  JS and Python can be used to interact together. This demo is *NOT* meant to show face detection or object detection.   |
+--------------------------------------------------------------------------------------------------------------------------
+Note: This is for educational purposes only, this may not be efficient or bug-free. Also, this is just a demo on how   
+JS and Python can be used to interact together. This demo is *NOT* meant to show face detection or object detection. 
 --------------------------------------------------------------------------------------------------------------------------
 
 ## General Dependenices
